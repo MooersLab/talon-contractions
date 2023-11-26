@@ -2,6 +2,8 @@
 
 TalonScript file, *contractions.talon*, that contains the expansions of common contractions in English.
 These are automatically expanded in the [Talon Voice](https://talonvoice.com/docs/index.html) when used in the dictation mode. 
+Voice In is a open source project that is wrapped with Python and that is highly customizable via either TalonScript or Python scripts.
+
 I grew tried of correcting contractions manually. 
 This file saves a lot of time during the editing phase.
 
