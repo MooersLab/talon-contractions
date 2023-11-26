@@ -15,7 +15,7 @@ The subfolder <whatever> can have any name and is optional.
 Talon Voice will automatically detect this file and all others inside `~/.talon/users/` without restarting Talon Voice.
 
 You can add more contractions by using a text editor.
-The *contractions.talon* file is a plain text file written in TalonScript which is a subset of Python.
+The *contractions.talon* file is a plain text file written in TalonScript, which is a subset of Python.
 
 ## Contributing new contrations
 
