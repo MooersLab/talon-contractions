@@ -1,4 +1,4 @@
-# talon-contractions: Automatically expand spoken contractions in English
+# talon-contractions: Automatically expand English contractions
 
 ## Purpose
 TalonScript file, *contractions.talon*, contains the expansions of common contractions in English.
